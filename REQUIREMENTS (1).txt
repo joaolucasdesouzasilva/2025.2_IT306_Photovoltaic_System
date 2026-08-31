@@ -1,0 +1,9 @@
+REQUIREMENTS
+
+Please, install the following libraries, at least on these versionsm to move forward with the lessons and classes:
+
+pvlib == 0.13.1
+numpy == 2.4.2
+pandas == 2.3.3
+matplotlib == 3.10.1
+sklearn == 1.6.1
